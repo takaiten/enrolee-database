@@ -170,11 +170,6 @@ export default {
       ],
       selectedCourse: 1
     };
-  },
-  methods: {
-    print(data) {
-      console.log(data);
-    }
   }
 };
 </script>
